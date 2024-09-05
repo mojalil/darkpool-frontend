@@ -8,12 +8,15 @@
 
 DarkNode is a cutting-edge encrypted exchange and DeFi dark pool for ERC20 tokens, offering unparalleled privacy, optimal execution, and customizable trading parameters.
 
+<img width="1488" alt="Screenshot 2024-09-05 at 15 48 50" src="https://github.com/user-attachments/assets/29be4b7e-5689-46e5-87c0-089a99b6ee03">
+
 ## 🚀 Key Features
 
 ### 1. Optimal Execution
 - No slippage
 - No spread
 - No price impact
+
 - Trades executed at real-time midpoint price from centralized exchanges
 
 ### 2. Enhanced Privacy
